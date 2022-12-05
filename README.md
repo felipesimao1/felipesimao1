@@ -16,5 +16,5 @@
 </div>
   
   <div>
-  ![Snake animation](https://github.com/felipesimao1/felipesimao1/blob/output/github-contribution-grid-snake.svg)
+    <a href="mailto:felipe.simao1@gmail.com">https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white </a>
   </div>
